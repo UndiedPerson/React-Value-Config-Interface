@@ -1,6 +1,6 @@
-# Servo Configurator
+# Configurator
 
-A web application for configuring servo settings. Built with React and TypeScript on the frontend and Node.js with Express on the backend.
+A web application for configuring settings. Built with React and TypeScript on the frontend and Node.js with Express on the backend.
 
 ## Project Structure
 
